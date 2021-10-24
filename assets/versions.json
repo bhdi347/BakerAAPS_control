@@ -1,0 +1,6 @@
+[
+	{"minAndroid":1,"maxAndroid":27},
+	{"minAndroid":28,"maxAndroid":99,"supported":"2.8.2"},
+	{"endDate":"2021-11-07","version":"2.9.0-beta1"},
+	{"endDate":"2021-11-07","version":"3.0-beta1"}
+]
